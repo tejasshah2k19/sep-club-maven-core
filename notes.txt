@@ -1,0 +1,17 @@
+new -->
+gc ---> 
+
+
+IoC --> container
+
+inversion of control -->  
+
+
+1) BeanFactory
+2) ApplicationContext 
+
+
+spring.xml 
+
+
+class -> IOC -> spring bean 
